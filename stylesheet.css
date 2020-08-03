@@ -1,0 +1,21 @@
+body {
+    background-color: #e7ecef;
+}
+
+h1 {
+color: black;
+font-family: 'Architects Daughter', cursive;
+text-align: center;
+}
+
+h2 {
+color: black;
+font-family: 'Architects Daughter', cursive;
+text-align: center;
+}
+
+img {
+border:solid 8px #6096ba;
+padding: 20px 50px 20px 50px;
+margin: 35px;
+}
